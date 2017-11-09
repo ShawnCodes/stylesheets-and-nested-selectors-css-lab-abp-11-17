@@ -9,7 +9,7 @@ body {
 header {
   height: 100px;
   bottom-border: 1px solid #cccccc;
-  
+
 }
 
 header nav {
@@ -19,7 +19,7 @@ header nav {
 nav ul {
   padding: 0;
   margin: 40px 0 0 0;
-  
+
 }
 
 nav ul li {
